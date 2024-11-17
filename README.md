@@ -80,7 +80,7 @@ seg=4'd6;
 #100
 seg=4'd7;
 end
-
+```
 OUTPUT
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/c186a0f9-0637-40bf-9d0f-82006f82667f">
 
